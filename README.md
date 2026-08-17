@@ -1,6 +1,6 @@
 # Hi, I'm Honey 👋
 
-### Cybersecurity • Linux • Python • Backend
+### Cybersecurity • Linux • Bash • Backend
 
 ## 📚 Currently Learning
 
@@ -9,7 +9,7 @@
 - 🐍 Python
 - ⚙️ Backend Development
 - 🐘 PostgreSQL
-- 🔧 Git & GitHub
+- 🔧 SQL
 
 ## 🚧 Currently Building
 
