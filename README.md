@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Honey 👋
 
-<!--
-**honeydev-404/honeydev-404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Cybersecurity • Linux • Python • Backend
 
-Here are some ideas to get you started:
+## 📚 Currently Learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🛡️ Cybersecurity
+- 🐧 Linux
+- 🐍 Python
+- ⚙️ Backend Development
+- 🐘 PostgreSQL
+- 🔧 Git & GitHub
+
+## 🚧 Currently Building
+
+- [GhostSSH](https://github.com/honeydev-404/GhostSSH) — lightweight SSH alias manager written in Bash
