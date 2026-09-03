@@ -14,7 +14,7 @@
 ## 🚧 Currently Building
 
 - [GhostSSH](https://github.com/honeydev-404/GhostSSH) — lightweight SSH alias manager written in Bash
-- [Backend-first-principles] - Backend First Principles Notes for Backend Developement.
+- [Backend-first-principles](https://github.com/honeydev-404/Backend-first-principles) - Backend First Principles Notes for Backend Developement.
 
 ## 👾 Currently Working With
 <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/4e2c7ede-8724-4afc-8bb4-1841e038fd18" />
